@@ -1,6 +1,4 @@
 # hello-world
 my first repository in git hub
 
-voy hacer una prueba de escribir un texto y 
-luego borrarle para poder ver la diferencia 
-de los colores.
+He estado trabajando con git bash en linea de comandos y ahora estoy trabajando en github en modo grafico. Hace mucho frio y ademas esta empezando a llover.
